@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065740121744",
+    "firebase_url": "https://ks-task-default-rtdb.firebaseio.com",
+    "project_id": "ks-task",
+    "storage_bucket": "ks-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065740121744:android:61c150bca80e5bee238a15",
+        "android_client_info": {
+          "package_name": "com.skstudio.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065740121744-t1i4f1rgbq16cokfglb3qpdt5asjb3fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO74A8auSSBv9mtkvTJmdr-gD6ixM6tjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065740121744-t1i4f1rgbq16cokfglb3qpdt5asjb3fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
